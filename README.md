@@ -7,10 +7,12 @@ A list of all open source themes for Telegram.
  - [Azure](https://github.com/danyspin97/AzureTheme)
  - [Grayscale](https://github.com/maartenpaauw/telegram-grayscale-theme)
  - [Light Arc](https://github.com/MrYadro/TeleArc#light-arc)
+ - [Ubuntu Light](https://github.com/michaelkisiel/ubuntu-light-telegram-theme)
  - [Viber](https://github.com/Telegram-Global-Network/TDesktop-Viber-Theme)
  - [Whatsapp](https://github.com/Telegram-Global-Network/TDesktop-WhatsApp-Theme)
 
 ### Dark
+ - [Batman](https://github.com/Telegram-Global-Network/TDesktop-Batman-Theme)
  - [Brando Material Dark](https://github.com/Remeic/Brando-Telegram-Theme)
  - [Dark Arc](https://github.com/MrYadro/TeleArc#dark-arc-dark)
  - [Dark Star One](https://github.com/DARKKi/telegram-darkstarone-theme)
@@ -18,11 +20,13 @@ A list of all open source themes for Telegram.
  - [GNULinux](https://github.com/huezo/ThemeTDesktop-GNULinux)
  - [Gruvbox](https://github.com/gilbertw1/telegram-gruvbox-theme)
  - [Huezo](https://github.com/huezo/ThemeTDesktop-huezo)
+ - [Null Core](https://github.com/simm25/Null-Core-Telegram-Theme)
  - [Predawnish](https://github.com/miwu/telegram-predawnish)
  - [Recourse](https://github.com/Recouse/TDesktop-Dark-Theme)
  - [Solid Dark](https://github.com/MasterGroosha/telegram-soliddark-theme)
  - [Tehran Dark](https://github.com/Aleyasen/TehranDarkTheme)
- - [Virsu Foxy](https://github.com/VixusFoxy/)
+ - [Vix](https://github.com/VixusFoxy/VixTelegramThemes)
+ - [Voxel Vinous](https://github.com/Belvedersky/Voxel-vinous-theme)
 
 ## Disclaimer
 
