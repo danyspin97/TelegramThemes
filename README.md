@@ -27,8 +27,9 @@ A list of all open source themes for Telegram.
  - [Null Core](https://github.com/simm25/Null-Core-Telegram-Theme)
  - [Predawnish](https://github.com/miwu/telegram-predawnish)
  - [Recourse](https://github.com/Recouse/TDesktop-Dark-Theme)
+ - [Solarized Dark](https://gitlab.com/SlavMetal/telegram-solarized-dark-theme)
  - [Solid Dark](https://github.com/MasterGroosha/telegram-soliddark-theme)
- - [Tehran Dark](https://github.com/Aleyasen/TehranDarkTheme)
+ - [Tomorrow Night](https://github.com/SuperPaintman/Tomorrow-Night-Telegram-Theme)
  - [Vix](https://github.com/VixusFoxy/VixTelegramThemes)
  - [Voxel Vinous](https://github.com/Belvedersky/Voxel-vinous-theme)
 
