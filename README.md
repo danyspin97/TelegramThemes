@@ -12,6 +12,7 @@ A list of all open source themes for Telegram.
  - [Whatsapp](https://github.com/Telegram-Global-Network/TDesktop-WhatsApp-Theme)
 
 ### Dark
+ - [Base 16](https://github.com/am/telegram-theme-base16)
  - [Batman](https://github.com/Telegram-Global-Network/TDesktop-Batman-Theme)
  - [Brando Material Dark](https://github.com/Remeic/Brando-Telegram-Theme)
  - [cnBrendy Purple](https://github.com/huezo/cnBrendy_purpleTheme)
